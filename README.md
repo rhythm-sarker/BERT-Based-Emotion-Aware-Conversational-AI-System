@@ -10,7 +10,7 @@ Confidence Scoring: The chatbot displays the model's confidence score alongside 
 
 Dynamic Response System: Maps predicted emotions to pre-defined empathetic responses (e.g., offering comfort for sadness, sharing joy for happiness).
 
-Technical Implementation The project follows a rigorous machine learning pipeline:
+Technical Implementation - The project follows a rigorous machine learning pipeline:
 
 Data Preprocessing: Tokenization using BertTokenizer with dynamic padding and truncation to a max length of 64.
 
